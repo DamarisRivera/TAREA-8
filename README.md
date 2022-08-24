@@ -20,18 +20,22 @@ Aprender y desarrollar ejercicios por Análisis de ramas, lazos y nodos y resolv
 	
 ## 2. Marco Teórico
 
-#### CAPITULO 9 
+#### CAPITULO 15 
 
 
 
-#### CAPITULO 10 
+#### CAPITULO 16
 
 
-#### CAPITULO 9 
+
+
+## 2. Explicación y resolución de ejercicios
+
+#### CAPITULO 15
 
 #### PROBLEMAS 
 
-##### *SECCIÓN 9-1 	Ecuaciones simultáneas en el análisis de circuitos*
+##### *SECCIÓN 15-1 	Ecuaciones simultáneas en el análisis de circuitos*
 	
 ##### 
 	
@@ -49,11 +53,11 @@ Aprender y desarrollar ejercicios por Análisis de ramas, lazos y nodos y resolv
 
 ##### 
 
-#### CAPITULO 10 
+#### CAPITULO 16
 
 #### PROBLEMAS 
 
-##### *SECCIÓN 10-1 	El campo magnético*
+##### *SECCIÓN 16-1 	El campo magnético*
 
 ##### 
 
