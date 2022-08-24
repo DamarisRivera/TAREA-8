@@ -35,39 +35,16 @@ Aprender y desarrollar ejercicios por Análisis de ramas, lazos y nodos y resolv
 
 #### PROBLEMAS 
 
-##### *SECCIÓN 15-1 	Ecuaciones simultáneas en el análisis de circuitos*
-	
-##### 
-	
-##### 
 
-##### 
-
-##### *SECCIÓN 9-2	 Método de la corriente en ramas*
-
-##### 
-
-##### 
-
-##### *SECCIÓN 9-4 	Método del voltaje en nodos*
-
-##### 
 
 #### CAPITULO 16
 
 #### PROBLEMAS 
 
-##### *SECCIÓN 16-1 	El campo magnético*
+PARTE 1: CIRCUITOS EN SERIE
 
-##### 
 
-##### *SECCIÓN 10-5 	Inducción electromagnética*
 
-##### 
-
-##### *SECCIÓN 10-6 	 Aplicaciones de la inducción electromagnética*
-
-##### 
 
 ## 4. Video
 
