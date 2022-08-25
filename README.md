@@ -45,14 +45,12 @@ Aprender y desarrollar ejercicios en Circuitos RC y Circuitos RL utilizando los 
 
 #### PROBLEMAS 
 
-
-
-#### CAPITULO 16
-
-#### PROBLEMAS 
-
 PARTE 1: CIRCUITOS EN SERIE
 
+![image](https://user-images.githubusercontent.com/105671763/186572039-a0368ed3-9c90-4da9-ba84-d469b97fe2fe.png)
+![image](https://user-images.githubusercontent.com/105671763/186572096-7f2aecae-07f8-49a9-be88-9cc88427c6a9.png)
+![image](https://user-images.githubusercontent.com/105671763/186572128-f5f275fb-e3ce-4892-aa59-de047d54d407.png)
+![image](https://user-images.githubusercontent.com/105671763/186572155-db7be509-6d53-4bd9-a3f6-5ac69f55054a.png)
 
 
 PARTE 2 CIRCUITOS EN PARALELO
@@ -61,6 +59,12 @@ PARTE 2 CIRCUITOS EN PARALELO
 PARTE 3: CIRCUITOS EN SERIE-PARALELO
 
 PARTE 4: TEMAS ESPECIALES
+
+#### CAPITULO 16
+
+#### PROBLEMAS 
+
+
 
 
 
