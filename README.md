@@ -52,6 +52,18 @@ PARTE 1: CIRCUITOS EN SERIE
 ![image](https://user-images.githubusercontent.com/105671763/186572128-f5f275fb-e3ce-4892-aa59-de047d54d407.png)
 ![image](https://user-images.githubusercontent.com/105671763/186572155-db7be509-6d53-4bd9-a3f6-5ac69f55054a.png)
 
+![image](https://user-images.githubusercontent.com/105671763/186580387-486bc288-2851-4923-8826-f81885839641.png)
+
+![image](https://user-images.githubusercontent.com/105671763/186581890-1a4af1ce-c8ba-48ef-9978-6d757f797553.png)
+
+![image](https://user-images.githubusercontent.com/105671763/186583050-437c9303-ce4f-44fb-9398-71705df33683.png)
+
+![image](https://user-images.githubusercontent.com/105671763/186583599-892c5af0-0886-4aeb-b67b-ac73513aaf76.png)
+
+![image](https://user-images.githubusercontent.com/105671763/186585489-b0e94b6d-2dcb-4d11-9fdd-cd1922322865.png)
+![image](https://user-images.githubusercontent.com/105671763/186585523-909bbf47-d73b-44ae-9596-4092cd583b2e.png)
+
+
 
 PARTE 2 CIRCUITOS EN PARALELO
 
