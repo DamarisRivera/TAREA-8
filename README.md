@@ -11,12 +11,13 @@ PARCIAL 3
   
 ### 1.1 Objetivo General
 
-Aprender y desarrollar ejercicios por Análisis de ramas, lazos y nodos y resolver ejercicios de Magnetismo y Electromagnetismo, utilizando los conceptos aprendidos en cada capítulo.
+Aprender y desarrollar ejercicios en Circuitos RC y Circuitos RL utilizando los conocimientos aprendidos, logrando resolver los problemas planteados al final de cada capitulo.
 	
 ### 1.2 Objetivos Específicos
         
-- Realizar los problemas planteados en cada capítulo, indicando el proceso que ha sido utilizado.
-- Hacer mapas mentales donde se utilice ideas cortas que expliquen los conceptos de cada tema y permitan un entendimiento rápido del mismo.
+- Elaborar mapas mentales donde se explique los conceptos fundamentales de cada capítulo.
+- Analizar cada subtema por capítulo.
+- Desarrollar los problemas planteados al final del capítulo.
 	
 ## 2. Marco Teórico
 
@@ -69,9 +70,9 @@ PARTE 4: TEMAS ESPECIALES
 
 ## 5. Conclusiones
 
-- Los problemas realizados por Análisis de nodos, lazos y ramas se unen con los otros conocimientos aprendidos con anterioridad y permiten resolver los ejercicios de manera más simple, los problemas resueltos por Magnetismo y Electromagnetismo nos permite ver como funcionan los campos magneticos, como existen fuerzas que a pesar de no ser vistas se conoce que están presentes.
-
-- Se estudiaron los conceptos por cada capítulo permitiendonos resolver los problemas y entender de manera más clara como solucionar los ejercicios y como funciona en el mundo real con los conceptos estudiados.
+- Utilizando los mapas mentales que contienen la información resumida facilita la busqueda de fórmulas y conceptos esenciales para los ejercicios propuestos.
+- Comprender cada subtema permite entender que es lo que se debe realizar y el por que se realiza de aquella manera.
+- En el desarrollo de ejercicios respecto a cada tema nos hace entender finalmente como funciona los circuitos en RC y RL.
 
 ## 6. Bibliografía
 
