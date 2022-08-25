@@ -68,6 +68,12 @@ PARTE 1: CIRCUITOS EN SERIE
 ![image](https://user-images.githubusercontent.com/105671763/186593087-1bd9775c-b83a-42dc-a150-0f871db46f87.png)
 ![image](https://user-images.githubusercontent.com/105671763/186593135-7fb7ad35-c4f1-424d-a60f-3bf8fb30b25d.png)
 
+![image](https://user-images.githubusercontent.com/105671763/186594657-38529022-c5c2-460d-84cc-2300e3574c2e.png)
+![image](https://user-images.githubusercontent.com/105671763/186594676-0c44844d-ef11-4fc2-be12-43336eb32ef6.png)
+
+
+
+
 
 PARTE 2 CIRCUITOS EN PARALELO
 
